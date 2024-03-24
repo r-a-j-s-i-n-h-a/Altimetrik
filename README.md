@@ -21,3 +21,9 @@ This project is a web application for managing telecom customer mobility. It all
 - **Backend:**
   - Node.js/Express for the RESTful APIs.
   - JSON store as the database.
+ 
+  SnapShots
+  ![Screenshot 2024-03-25 031627](https://github.com/r-a-j-s-i-n-h-a/Altimetrik/assets/94060322/0f4c1f45-7ab6-47cc-9c55-4c2bd307d4f4)
+
+![Screenshot 2024-03-25 031552](https://github.com/r-a-j-s-i-n-h-a/Altimetrik/assets/94060322/0445c9f4-1f9b-4b24-9c8f-26a33683fb0a)
+
