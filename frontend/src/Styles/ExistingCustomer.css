@@ -1,0 +1,68 @@
+.existing-customers-container {
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+}
+
+.existing-customers-heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.existing-customers-form {
+  display: grid;
+  grid-gap: 20px;
+}
+
+.existing-customers-label {
+  font-weight: bold;
+  color: #555;
+}
+
+.existing-customers-input {
+  width: calc(100% - 20px);
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  transition: border-color 0.3s ease;
+}
+
+.existing-customers-input:focus {
+  border-color: #007bff;
+}
+
+.existing-customers-select {
+  width: calc(100% - 20px);
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: #fff;
+  color: #555;
+}
+
+.existing-customers-submit-btn {
+  background-color: #007bff;
+  color: #fff;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.existing-customers-submit-btn:hover {
+  background-color: #0056b3;
+}
+.existing-customers-error {
+  color: #dc3545;
+  margin-top: 5px;
+}
+
+.existing-customers-success {
+  color: #28a745;
+  margin-top: 5px;
+}

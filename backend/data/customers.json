@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Raj",
+    "dob": "2002-05-02",
+    "email": "raj@gmail.com",
+    "adharNumber": "765757557575",
+    "registrationDate": "2024-03-23",
+    "mobileNumber": "5436436465",
+    "planStatus": "Active",
+    "planName": "Gold180",
+    "planCost": "299",
+    "validity": "180",
+    "existingPlanName": "Gold180",
+    "newPlanName": "platinum",
+    "newPlanCost": "44",
+    "newValidity": "180",
+    "renewalDate": "2024-03-27"
+  },
+  {
+    "id": 2,
+    "name": "Raj Sinha",
+    "dob": "2024-02-28",
+    "email": "rj@example.com",
+    "adharNumber": "123456789044",
+    "registrationDate": "2024-03-23",
+    "mobileNumber": "7777575757",
+    "planStatus": "Active",
+    "planName": "Gold180",
+    "planCost": "299",
+    "validity": "180"
+  },
+  {
+    "id": 3,
+    "name": "john",
+    "dob": "2024-03-20",
+    "email": "john@gmail.com",
+    "adharNumber": "843834783744",
+    "registrationDate": "2024-03-06",
+    "mobileNumber": "79397578787",
+    "planStatus": "Inactive",
+    "planName": "Gold180",
+    "planCost": "299",
+    "validity": "180"
+  },
+  {
+    "id": 4,
+    "name": "Andrew",
+    "dob": "2024-03-14",
+    "email": "Andrew@gmail.com",
+    "adharNumber": "877375093750",
+    "registrationDate": "2024-03-25",
+    "mobileNumber": "34343535378",
+    "planStatus": "Active",
+    "planName": "Platinum365",
+    "planCost": "499",
+    "validity": "365"
+  }
+]
