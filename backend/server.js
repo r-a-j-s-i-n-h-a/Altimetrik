@@ -1,7 +1,7 @@
 const express = require("express");
 const bodyParser = require("body-parser");
 const customerRoutes = require("./routes/customerRoutes");
-const planRoutes = require("./routes/planRoutes");
+
 
 var cors = require("cors");
 
@@ -13,7 +13,6 @@ app.use(bodyParser.json());
 app.use(cors());
 app.options("*", cors());
 
-app.use("/api/plans", planRoutes);
 app.use("/api/customers", customerRoutes);
 
 app.listen(PORT, () => {
